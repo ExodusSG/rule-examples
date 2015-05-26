@@ -5,6 +5,7 @@
 Add in a line to test commit
 Second time to add a line to commit
 Third time to add a line to commit
+Fourth time to add a line to commit
 
 Node Rules
 =====
