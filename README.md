@@ -3,6 +3,7 @@
 [![npm version](https://badge.fury.io/js/node-rules.svg)](http://badge.fury.io/js/node-rules)
 
 Add in a line to test commit
+Second time to add a line to commit
 
 Node Rules
 =====
