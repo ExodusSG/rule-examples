@@ -7,6 +7,7 @@ Second time to add a line to commit
 Third time to add a line to commit
 Fourth time to add a line to commit
 May 27th to add a line to commit
+Commit in master branch now.
 
 Node Rules
 =====
